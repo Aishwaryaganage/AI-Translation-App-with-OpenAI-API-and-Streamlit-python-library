@@ -9,7 +9,7 @@ st.set_page_config(
 )
 st.title("AI Translation App")
 st.subheader("Translate text from Englcish to French")
-openai.api_key='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'
+openai.api_key='#Enter your Api key....'
 input = st.text_input("Enter text to translate: ")
 
 default_prompt = "Translate the text from English to French:\nText:{}\nTranslation:".format(input)
