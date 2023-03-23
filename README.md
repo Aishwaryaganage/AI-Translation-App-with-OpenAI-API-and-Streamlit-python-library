@@ -9,4 +9,3 @@ High-quality translations: The app uses the OpenAI API, which utilizes state-of-
 Fast translation: The app uses advanced AI models to provide fast and efficient translations, ensuring users receive their translations quickly.
 Multi-language support: The app supports a wide range of languages, making it accessible to users from different regions and countries.
 
-Overall, the AI Translation App is a powerful tool for anyone who needs to communicate in different languages quickly and efficiently. Its user-friendly interface, high-quality translations, fast processing times, and multi-language support make it an indispensable tool for businesses, students, and anyone who needs to translate text between languages.
